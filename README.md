@@ -23,7 +23,14 @@ responsable.
 
 ### 📌 Proyectos
 
-- [**segmentacion-clientes-famd**](https://github.com/lauragave8/segmentacion-clientes-famd) — Segmentación no supervisada de clientes con datos mixtos (FAMD + clustering aglomerativo) y validación de los segmentos con comportamiento real de negocio.
+- [**segmentacion-clientes-famd**](https://github.com/lauragave8/segmentacion-clientes-famd) — Segmentación **no supervisada** de clientes con datos mixtos (FAMD + clustering aglomerativo) y validación de los segmentos con comportamiento real de negocio.
+- [**prediccion-diagnostico-clinico**](https://github.com/lauragave8/prediccion-diagnostico-clinico) — Clasificación **supervisada** clínica con validación cruzada, comparación de modelos, métricas adecuadas al contexto (recall sobre la clase peligrosa) y explicabilidad.
+- [**rag-consultivo-local**](https://github.com/lauragave8/rag-consultivo-local) — Bot consultivo con arquitectura **RAG**: recuperación semántica multilingüe en local + generación opcional con Claude.
+
+### 🔒 Otros proyectos (privados)
+
+- **laugave-web** — Sitio web y calculadora de diagnóstico de dolores de negocio (Next.js · Supabase · Vercel). *Producto propio.*
+- **Automatización y orquestación** — Flujos e integraciones (n8n) y orquestación de agentes para procesos de negocio. *Privado.*
 
 ### 📫 Contacto
 
