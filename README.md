@@ -27,6 +27,10 @@ responsable.
 - [**prediccion-diagnostico-clinico**](https://github.com/lauragave8/prediccion-diagnostico-clinico) — Clasificación **supervisada** clínica con validación cruzada, comparación de modelos, métricas adecuadas al contexto (recall sobre la clase peligrosa) y explicabilidad.
 - [**rag-consultivo-local**](https://github.com/lauragave8/rag-consultivo-local) — Bot consultivo con arquitectura **RAG**: recuperación semántica multilingüe en local + generación opcional con Claude.
 
+### ✍️ Escritos
+
+- [**notas-tecnicas**](https://github.com/lauragave8/notas-tecnicas) — Escritos cortos sobre medición de impacto y IA: *[Teoría de Cambio y marco OECD-DAC](https://github.com/lauragave8/notas-tecnicas/blob/main/oecd-dac-medicion-de-impacto.md)* · *[¿Qué es realmente un sistema agéntico?](https://github.com/lauragave8/notas-tecnicas/blob/main/sistemas-agenticos.md)*
+
 ### 🔒 Otros proyectos (privados)
 
 - **laugave-web** — Sitio web y calculadora de diagnóstico de dolores de negocio (Next.js · Supabase · Vercel). *Producto propio.*
