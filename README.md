@@ -19,6 +19,7 @@
 - [**segmentacion-clientes-famd**](https://github.com/lauragave8/segmentacion-clientes-famd) — Segmentación **no supervisada** de clientes con datos mixtos (FAMD + clustering aglomerativo) y validación de los segmentos con comportamiento real de negocio.
 - [**prediccion-diagnostico-clinico**](https://github.com/lauragave8/prediccion-diagnostico-clinico) — Clasificación **supervisada** clínica con validación cruzada, comparación de modelos, métricas adecuadas al contexto (recall sobre la clase peligrosa) y explicabilidad.
 - [**rag-consultivo-local**](https://github.com/lauragave8/rag-consultivo-local) — Bot consultivo con arquitectura **RAG**: recuperación semántica multilingüe en local + generación opcional con Claude.
+- [**n8n-demos-salud**](https://github.com/lauragave8/n8n-demos-salud) — Flujos de **automatización en n8n** para salud (reactivación de pacientes y triage de WhatsApp) con OpenAI + Google Calendar.
 
 ### ✍️ Escritos
 
