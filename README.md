@@ -32,6 +32,16 @@ responsable.
 - **laugave-web** — Sitio web y calculadora de diagnóstico de dolores de negocio (Next.js · Supabase · Vercel). *Producto propio.*
 - **Automatización y orquestación** — Flujos e integraciones (n8n) y orquestación de agentes para procesos de negocio. *Privado.*
 
+### ⭐ Referencias / lo que sigo
+
+Proyectos open source que admiro y sigo de cerca:
+
+- **Fundamentos ML/DS:** [scikit-learn](https://github.com/scikit-learn/scikit-learn) · [PyTorch](https://github.com/pytorch/pytorch) · [TensorFlow](https://github.com/tensorflow/tensorflow) · [Transformers](https://github.com/huggingface/transformers) · [Keras](https://github.com/keras-team/keras) · [pandas](https://github.com/pandas-dev/pandas)
+- **LLM & agentes:** [Ollama](https://github.com/ollama/ollama) · [Dify](https://github.com/langgenius/dify) · [LangChain](https://github.com/langchain-ai/langchain) · [RAGFlow](https://github.com/infiniflow/ragflow) · [OpenHands](https://github.com/OpenHands/OpenHands) · [Flowise](https://github.com/FlowiseAI/Flowise)
+- **Aprendizaje & MLOps:** [LLMs-from-scratch](https://github.com/rasbt/LLMs-from-scratch) · [Made-With-ML](https://github.com/GokuMohandas/Made-With-ML) · [ML-For-Beginners](https://github.com/microsoft/ML-For-Beginners)
+
+> Mi colección completa está en mis [⭐ Stars](https://github.com/lauragave8?tab=stars).
+
 ### 📫 Contacto
 
 [LinkedIn](https://www.linkedin.com/in/laura-gallego-v%C3%A9lez-445285138/) · 📍 Medellín, Colombia
