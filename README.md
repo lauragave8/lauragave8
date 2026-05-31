@@ -35,6 +35,7 @@ responsable.
 
 - **laugave-web** — Sitio web y calculadora de diagnóstico de dolores de negocio (Next.js · Supabase · Vercel). *Producto propio.*
 - **Automatización y orquestación** — Flujos e integraciones (n8n) y orquestación de agentes para procesos de negocio. *Privado.*
+- **Agente de ventas por WhatsApp (PYME)** — Agente de IA que atiende y cotiza por WhatsApp + dashboard en tiempo real para el negocio (Next.js · WhatsApp Cloud API · Supabase · OpenAI). *Proyecto de cliente, privado.*
 
 ### ⭐ Referencias / lo que sigo
 
